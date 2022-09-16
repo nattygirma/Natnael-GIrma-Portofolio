@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Natnael-Girma-Portofolio/static/css/main.9da52075.css",
+    "main.js": "/Natnael-Girma-Portofolio/static/js/main.27d3422d.js",
+    "static/js/787.c6b84433.chunk.js": "/Natnael-Girma-Portofolio/static/js/787.c6b84433.chunk.js",
+    "static/media/chainlink-logo.png": "/Natnael-Girma-Portofolio/static/media/chainlink-logo.a36a2e78560b7adb1d33.png",
+    "static/media/hardhat-logo.png": "/Natnael-Girma-Portofolio/static/media/hardhat-logo.52ef735fbafda7adc724.png",
+    "static/media/ipfs-logo.png": "/Natnael-Girma-Portofolio/static/media/ipfs-logo.2c899a97eab096d857e4.png",
+    "static/media/html5-logo.png": "/Natnael-Girma-Portofolio/static/media/html5-logo.59a2b57ff9f570656c9d.png",
+    "static/media/moralis-logo.png": "/Natnael-Girma-Portofolio/static/media/moralis-logo.33db1570aec5bc627f93.png",
+    "static/media/react-logo.png": "/Natnael-Girma-Portofolio/static/media/react-logo.d1d003618737e62bb2df.png",
+    "static/media/truffle-logo.png": "/Natnael-Girma-Portofolio/static/media/truffle-logo.a1cb065a60967ae4d62b.png",
+    "static/media/css-logo.png": "/Natnael-Girma-Portofolio/static/media/css-logo.56232e401c146d04371f.png",
+    "static/media/js-logo.png": "/Natnael-Girma-Portofolio/static/media/js-logo.940765f470ddd506af04.png",
+    "static/media/nodej-js.png": "/Natnael-Girma-Portofolio/static/media/nodej-js.c26d3e42ae2c5e65f1ee.png",
+    "static/media/yarn-logo.png": "/Natnael-Girma-Portofolio/static/media/yarn-logo.f51701f1f8ec4bb760c6.png",
+    "static/media/web3js.png": "/Natnael-Girma-Portofolio/static/media/web3js.045007abf451e75768da.png",
+    "static/media/ganache-logo.png": "/Natnael-Girma-Portofolio/static/media/ganache-logo.8ebfbaed45e5dd4f01ee.png",
+    "static/media/ethers-logo.png": "/Natnael-Girma-Portofolio/static/media/ethers-logo.eaa073a1fcc0fc618c45.png",
+    "index.html": "/Natnael-Girma-Portofolio/index.html",
+    "main.9da52075.css.map": "/Natnael-Girma-Portofolio/static/css/main.9da52075.css.map",
+    "main.27d3422d.js.map": "/Natnael-Girma-Portofolio/static/js/main.27d3422d.js.map",
+    "787.c6b84433.chunk.js.map": "/Natnael-Girma-Portofolio/static/js/787.c6b84433.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9da52075.css",
+    "static/js/main.27d3422d.js"
+  ]
+}
