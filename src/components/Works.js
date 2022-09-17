@@ -69,7 +69,7 @@ class Works extends React.Component {
                 <div class="row">
                   <div class="col-sm-4">
                     <a href="https://amazon-on-web3-nattygirma.vercel.app/" class="black-image-project-hover">
-                      <img src="./assets/images/amazon.png" alt="Image" class="img-responsive"/>
+                      <img src="./assets/images/amazon.png" alt="amazonImage" class="img-responsive"/>
                     </a>
                     <div class="card-container card-container-lg">
                       <h4 class="fontColorBlack">004/006</h4>
@@ -80,7 +80,7 @@ class Works extends React.Component {
                   </div>
                    <div class="col-sm-4">
                       <a href=" https://todo-list-on-the-blockchain-nattygirma.vercel.app" class="black-image-project-hover">
-                        <img src="./assets/images/todo.png" alt="Image" class="img-responsive"/>
+                        <img src="./assets/images/todo.png" alt="TodoImage" class="img-responsive"/>
                       </a>
                       <div class="card-container card-container-lg">
                         <h4 class="fontColorBlack">005/006</h4>
@@ -92,7 +92,7 @@ class Works extends React.Component {
                     
                     <div class="col-sm-4">
                       <a href="https://nattygirma.github.io/Nft-minting-website/" class="black-image-project-hover">
-                        <img src="./assets/images/nft.png" alt="Image" class="img-responsive"/>
+                        <img src="./assets/images/nft.png" alt="NftImage" class="img-responsive"/>
                       </a>
                       <div class="card-container card-container-lg">
                         <h4 class="fontColorBlack">006/006</h4>

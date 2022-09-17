@@ -1,6 +1,5 @@
 import React from "react";
 import ReactTypingEffect from "react-typing-effect";
-import { Link } from "react-router-dom";
 
 class Home extends React.Component {
 //   componentDidMount() {
@@ -11,17 +10,11 @@ class Home extends React.Component {
 //       });
 //    }
   render() {
-    const styleObj = {
-
-    };
-
     return (
        <div>
 
         <div
-          class="hero-full-container background-image-container white-text-container"
-          style={{ backgroundImage: "url('./assets/images/a.jpg')" }}
-        >
+          class="hero-full-container background-image-container white-text-container backgroundimghome">
           <div class="container">
             <div class="row">
               <div class="col-xs-12">

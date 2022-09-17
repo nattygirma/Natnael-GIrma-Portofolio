@@ -24,7 +24,7 @@ class Skills extends React.Component {
           return(
             <a key={uuidv4()} href={skill.url} target="_blank">
               <div className="skill">
-                <img src={skill.img} alt="Skill logo image" />
+                <img src={skill.img} alt="Skill logo" />
               </div>
               <p className="skilltext">{skill.name}</p>
             </a>
