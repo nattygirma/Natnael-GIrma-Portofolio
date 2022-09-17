@@ -14,7 +14,9 @@ class Home extends React.Component {
        <div>
 
         <div
-          class="hero-full-container background-image-container white-text-container backgroundhome">
+          class="hero-full-container background-image-container white-text-container"
+          style={{ backgroundImage: "url('./assets/images/a.jpg')" }}
+        >
           <div class="container">
             <div class="row">
               <div class="col-xs-12">
