@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Natnael-Girma-Portofolio/static/css/main.9da52075.css",
-    "main.js": "/Natnael-Girma-Portofolio/static/js/main.1eba9100.js",
+    "main.js": "/Natnael-Girma-Portofolio/static/js/main.97fb8686.js",
     "static/js/787.c6b84433.chunk.js": "/Natnael-Girma-Portofolio/static/js/787.c6b84433.chunk.js",
     "static/media/chainlink-logo.png": "/Natnael-Girma-Portofolio/static/media/chainlink-logo.a36a2e78560b7adb1d33.png",
     "static/media/hardhat-logo.png": "/Natnael-Girma-Portofolio/static/media/hardhat-logo.52ef735fbafda7adc724.png",
@@ -19,11 +19,11 @@
     "static/media/ethers-logo.png": "/Natnael-Girma-Portofolio/static/media/ethers-logo.eaa073a1fcc0fc618c45.png",
     "index.html": "/Natnael-Girma-Portofolio/index.html",
     "main.9da52075.css.map": "/Natnael-Girma-Portofolio/static/css/main.9da52075.css.map",
-    "main.1eba9100.js.map": "/Natnael-Girma-Portofolio/static/js/main.1eba9100.js.map",
+    "main.97fb8686.js.map": "/Natnael-Girma-Portofolio/static/js/main.97fb8686.js.map",
     "787.c6b84433.chunk.js.map": "/Natnael-Girma-Portofolio/static/js/787.c6b84433.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9da52075.css",
-    "static/js/main.1eba9100.js"
+    "static/js/main.97fb8686.js"
   ]
 }
