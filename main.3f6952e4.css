@@ -86,6 +86,13 @@ html {
     font-size: 16px;
     padding: 16px 24px;
   }
+  .backgroundimghome{
+    background: url('./assets/images/d.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;  
+  }
   .backgroundImg{
   background: url('./assets/images/d.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
