@@ -12,7 +12,7 @@ class Skills extends React.Component {
   <div class="container margintopneeded">
     <div class="row">
       
-      <div class="col-sm-8 col-sm-offset-2 section-container-spacer">
+      <div class="col-sm-8a col-sm-offset-2 section-container-spacer">
         <div class="text-center">
           <h1 class="h2">03 : Skills</h1>
           <p>Technologies I use in my development: </p>
