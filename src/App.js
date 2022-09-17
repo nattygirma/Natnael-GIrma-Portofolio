@@ -9,12 +9,13 @@ import Skills from './components/Skills';
 import {
   Routes,
   Route,
+  HashRouter
 } from "react-router-dom";
   
 function App() {
   return (
     <>
-    <Header />
+    <Header />4
           <Routes>
 
     <Route exact path='/' element={< Home />}></Route>
@@ -24,7 +25,6 @@ function App() {
     <Route exact path='/Skills' element={< Skills />}></Route>
    
           </Routes>
-      {/* <Footer /> */}
 
     </>
   );

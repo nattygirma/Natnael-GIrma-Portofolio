@@ -14,7 +14,7 @@ class Home extends React.Component {
        <div>
 
         <div
-          class="hero-full-container background-image-container white-text-container backgroundimghome">
+          class="hero-full-container background-image-container white-text-container background">
           <div class="container">
             <div class="row">
               <div class="col-xs-12">
