@@ -86,7 +86,7 @@ html {
     font-size: 16px;
     padding: 16px 24px;
   }
-  .backgroundimghome{
+  .backgroundhome{
     background: url('./assets/images/a.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
