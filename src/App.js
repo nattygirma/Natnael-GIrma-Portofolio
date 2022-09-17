@@ -15,7 +15,7 @@ import {
 function App() {
   return (
     <>
-    <Header />4
+    <Header />
           <Routes>
 
     <Route exact path='/' element={< Home />}></Route>
